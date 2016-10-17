@@ -1,9 +1,8 @@
-Zcash
+Zkek
 =====
-
+Zcashd Improvements
 https://z.cash/
 
-Where do I begin?
 -----------------
 
 We have a guide for joining the public testnet: https://github.com/zcash/zcash/wiki/Beta-Guide
